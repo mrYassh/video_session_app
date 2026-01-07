@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271051525416",
+    "project_id": "fluttervideosessiontask",
+    "storage_bucket": "fluttervideosessiontask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271051525416:android:e39dfa03ed8ad7d633d41d",
+        "android_client_info": {
+          "package_name": "com.example.video_session_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rmWqOtl93lk0yCqNflO_7UXhibW2YoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
