@@ -37,6 +37,25 @@ This project was built as part of a technical evaluation task.
     * Final session status (**`completed`**) to Firestore
 
 ---
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/Appointments.jpeg" width="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/Drawer.jpeg" width="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/VideoInterface.jpeg" width="220" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="screenshots/CameraPermission.jpeg" width="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/AudioPermission.jpeg" width="220" />
+</p>
+
+
 
 ## 🛠 Tech Stack
 
